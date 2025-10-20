@@ -10,7 +10,7 @@
 </p>
 <hr>
 
-# 🧠 Security and Risk Management  
+# Security and Risk Management  
 **Student:** ABDULRAHMAN SALEH ALHAMMADI  
 **Email:** abdulrahmanalhammadi1986@gmail.com  
 **University:** University of Essex Online  
@@ -19,7 +19,7 @@
 
 ---
 
-## 📘 Module Overview  
+## Module Overview  
 The **Security and Risk Management (SRM)** module developed my ability to apply international cybersecurity risk standards in practical, team-based environments.  
 It integrated **technical, managerial, and human factors**, teaching me to analyse threats and design mitigations based on quantitative and qualitative evidence.  
 
@@ -31,7 +31,7 @@ The module introduced:
 
 ---
 
-## 🎯 Learning Objectives  
+## Learning Objectives  
 1. Understand and apply structured risk management methodologies.  
 2. Quantify and visualise risk through data-driven simulation and modelling.  
 3. Translate between technical analysis and business/ethical implications.  
@@ -40,7 +40,7 @@ The module introduced:
 
 ---
 
-## 📂 Folder Contents  
+## Folder Contents  
 
 | File | Description |
 |:--|:--|
@@ -51,7 +51,7 @@ The module introduced:
 
 ---
 
-## 🧩 Key Artefacts  
+## Key Artefacts  
 
 | Artefact | Description | Type |
 |:--|:--|:--|
@@ -62,7 +62,7 @@ The module introduced:
 
 ---
 
-## 🧠 Reflection Snapshot  
+## Reflection Snapshot  
 This module shifted my understanding of cybersecurity risk from theoretical compliance to **data-driven and ethically grounded practice**.  
 I learned to balance **quantitative precision** (Monte Carlo, Bayesian inference) with **qualitative reasoning** (policy, governance, and teamwork).  
 The process improved my confidence in leading group tasks, communicating results, and applying reflective techniques for continuous professional development.  
@@ -71,9 +71,9 @@ For the full reflection, see [Reflective Summary →](reflection.md)
 
 ---
 
-## 📚 References  
+## References  
 View the complete list of module references in [references.md](references.md).
 
 ---
 
-*© 2025 Zex Martens — University of Essex Online · MSc Cyber Security*
+*© 2025 ABDULRAHMAN S ALHAMMADI — University of Essex Online · MSc Cyber Security*
