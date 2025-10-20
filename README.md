@@ -1,5 +1,5 @@
 # 🎓 MSc Cyber Security – Academic e-Portfolio  
-**Author:** Zex Martens  
+**Author:** ABDULRAHMAN SALEH ALHAMMADI  
 **Institution:** University of Essex Online  
 **Programme:** MSc Cyber Security  
 **Last Updated:** October 2025  
