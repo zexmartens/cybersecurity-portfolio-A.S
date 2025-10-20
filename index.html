@@ -1,53 +1,67 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Zex Martens | Security Risk Management e-Portfolio</title>
-  <style>
-    :root { --bg:#f8fbff; --fg:#0f172a; --brand:#0b448f; --card:#ffffff; --muted:#334155; }
-    *{box-sizing:border-box}
-    body{margin:0;background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,'Helvetica Neue',Arial}
-    a{color:var(--brand);text-decoration:none}
-    a:hover{text-decoration:underline}
-    .hero{background:var(--brand);color:white;padding:24px 16px;text-align:center}
-    .hero nav{margin-top:8px;display:flex;gap:12px;flex-wrap:wrap;justify-content:center}
-    .hero nav a{background:rgba(255,255,255,.12);padding:8px 12px;border-radius:999px;color:white}
-    .container{max-width:980px;margin:0 auto;padding:24px 16px}
-    h2{color:var(--brand)}
-    .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;list-style:none;padding:0;margin:12px 0}
-    .card{background:var(--card);border-radius:12px;box-shadow:0 4px 14px rgba(2,6,23,.06);padding:14px}
-    footer{padding:24px 16px;text-align:center;background:#e6eef9;margin-top:24px}
-  </style>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Zex Martens | MSc Cyber Security — e-Portfolio</title>
+<style>
+:root{--bg:#f8fbff;--fg:#0f172a;--brand:#0b448f;--card:#fff}
+*{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,Segoe UI,Roboto}
+a{color:var(--brand);text-decoration:none} a:hover{text-decoration:underline}
+header{background:var(--brand);color:#fff;padding:28px 16px;text-align:center}
+main{max-width:1100px;margin:0 auto;padding:24px 16px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;margin:18px 0;padding:0;list-style:none}
+.card{background:var(--card);border-radius:14px;box-shadow:0 6px 16px rgba(2,6,23,.08);padding:16px}
+.card h3{margin:6px 0 8px} .muted{opacity:.8;font-size:.95rem}
+footer{padding:22px 16px;background:#e6eef9;text-align:center;margin-top:24px}
+.badge{display:inline-block;background:#e6eef9;padding:2px 8px;border-radius:999px;margin-left:6px;font-size:.8rem;color:#0b448f}
+</style>
 </head>
 <body>
-  <header class="hero">
-    <h1>Zex Martens</h1>
-    <p>MSc Cybersecurity — Security Risk Management e-Portfolio</p>
-  </header>
+<header>
+  <h1>Zex Martens — MSc Cyber Security</h1>
+  <p>Academic e-Portfolio (GitHub Pages)</p>
+</header>
 
-  <main class="container">
-    <section>
-      <h2>About</h2>
-      <p>This e-portfolio presents evidence of my learning and collaboration across the Security Risk Management module. It includes artefacts (one per unit), meeting notes & tutor feedback, and a 1,000-word reflective piece using Rolfe’s What–So What–Now What model.</p>
-    </section>
+<main>
+  <h2>Modules</h2>
+  <ul class="grid">
+    <li class="card">
+      <h3><a href="modules/Security-and-Risk-Management/overview.md">Security & Risk Management</a><span class="badge">SRM</span></h3>
+      <p class="muted">Overview, artefacts (Unit 6 & 11), reflection, references.</p>
+    </li>
+    <li class="card">
+      <h3><a href="modules/Launching-into-Cyber-Security/overview.md">Launching into Cyber Security</a></h3>
+      <p class="muted">Key assignments, skills, reflection.</p>
+    </li>
+    <li class="card">
+      <h3><a href="modules/Network-Security/overview.md">Network Security</a></h3>
+      <p class="muted">Labs, configs, evaluations.</p>
+    </li>
+    <li class="card">
+      <h3><a href="modules/Secure-Software-Development/overview.md">Secure Software Development</a></h3>
+      <p class="muted">Code repos, threat models, tests.</p>
+    </li>
+    <li class="card">
+      <h3><a href="modules/The-Human-Factor/overview.md">The Human Factor</a></h3>
+      <p class="muted">Social engineering, awareness artefacts.</p>
+    </li>
+    <li class="card">
+      <h3><a href="modules/Secure-System-Architecture/overview.md">Secure System Architecture</a></h3>
+      <p class="muted">Designs, controls mapping.</p>
+    </li>
+    <li class="card">
+      <h3><a href="modules/Research-Methods-and-Professional-Practice/overview.md">Research Methods & Professional Practice</a></h3>
+      <p class="muted">Methods, ethics, proposal.</p>
+    </li>
+  </ul>
 
-    <section>
-      <h2>Navigation</h2>
-      <ul class="cards">
-        <li class="card"><a href="reflection/reflective-piece.md">Reflective Piece</a></li>
-        <li class="card"><a href="artefacts/Unit-1_Threat-Identification/artefact.md">Unit 1 – Threat Identification</a></li>
-        <li class="card"><a href="artefacts/Unit-6_Status-Document/artefact.md">Unit 6 – Status Document</a></li>
-        <li class="card"><a href="artefacts/Unit-11_Final-Project/artefact.md">Unit 11 – Final Project</a></li>
-        <li class="card"><a href="artefacts/Evaluation_Unit6_vs_Unit11.md">Evaluation (Unit 6 vs Unit 11)</a></li>
-        <li class="card"><a href="meeting-notes/README.md">Meeting Notes & Tutor Feedback</a></li>
-        <li class="card"><a href="references/references.md">References List</a></li>
-      </ul>
-    </section>
-  </main>
+  <h2>About</h2>
+  <p>This multi-module portfolio showcases my coursework across the MSc programme: artefacts, reflections, feedback, and progress over time. Each module folder contains an overview, key evidence, and a short reflective analysis.</p>
+</main>
 
-  <footer>
-    <small>© 2025 Zex Martens — University of Essex Online</small>
-  </footer>
+<footer>
+  <small>© 2025 Zex Martens — University of Essex Online</small>
+</footer>
 </body>
 </html>
