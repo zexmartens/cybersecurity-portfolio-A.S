@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: "Zex Martens — Cybersecurity e-Portfolio"
 description: "MSc Cyber Security | University of Essex Online"
 markdown: kramdown
+permalink: pretty
