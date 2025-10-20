@@ -1,9 +1,4 @@
-# Site Configuration for GitHub Pages
-title: "ABDULRAHMAN S ALHAMMADI — Cybersecurity e-Portfolio"
-description: "MSc Cyber Security | University of Essex Online"
 theme: jekyll-theme-cayman
+title: "Zex Martens — Cybersecurity e-Portfolio"
+description: "MSc Cyber Security | University of Essex Online"
 markdown: kramdown
-show_downloads: false
-github:
-  is_project_page: true
-  repository_url: "https://github.com/zexmartens/cybersecurity-portfolio-A.S"
