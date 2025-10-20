@@ -7,7 +7,7 @@ title: Security & Risk Management — Overview
 
 
 <p align="center">
-  <a href="../../index.html">🏠 Home</a> |
+  <a href="https://github.com/zexmartens/cybersecurity-portfolio-A.S/blob/main/modules/Security-and-Risk-Management/overview.md">🏠 Home</a> |
   <a href="../Security-and-Risk-Management/overview.md">SRM</a> |
   <a href="../Launching-into-Cyber-Security/overview.md">LCS</a> |
   <a href="../Network-Security/overview.md">NSS</a> |
