@@ -19,7 +19,7 @@ This site showcases my academic progress, technical artefacts, and reflections a
 
 ## 🧭 Navigation
 
-- **Home:** [https://zexmartens.github.io/cybersecurity-portfolio-A.S/](https://zexmartens.github.io/cybersecurity-portfolio-A.S/)
+- **Home:** [https://zexmartens.github.io/cybersecurity-portfolio-A.S/index.md](https://zexmartens.github.io/cybersecurity-portfolio-A.S/index.md)
 - **GitHub Repository:** [View Source Code](https://github.com/zexmartens/cybersecurity-portfolio-A.S)
 - **University:** University of Essex Online  
 - **Programme:** MSc Cyber Security  
