@@ -66,4 +66,4 @@ This module was a turning point in my professional development. It strengthened 
 
 ---
 
-*© 2025 Zex Martens — University of Essex Online*
+*© 2025 ABDULRAHMAN S ALHAMMADI — University of Essex Online*
