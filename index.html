@@ -1,67 +1,131 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>Zex Martens | MSc Cyber Security — e-Portfolio</title>
-<style>
-:root{--bg:#f8fbff;--fg:#0f172a;--brand:#0b448f;--card:#fff}
-*{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,Segoe UI,Roboto}
-a{color:var(--brand);text-decoration:none} a:hover{text-decoration:underline}
-header{background:var(--brand);color:#fff;padding:28px 16px;text-align:center}
-main{max-width:1100px;margin:0 auto;padding:24px 16px}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;margin:18px 0;padding:0;list-style:none}
-.card{background:var(--card);border-radius:14px;box-shadow:0 6px 16px rgba(2,6,23,.08);padding:16px}
-.card h3{margin:6px 0 8px} .muted{opacity:.8;font-size:.95rem}
-footer{padding:22px 16px;background:#e6eef9;text-align:center;margin-top:24px}
-.badge{display:inline-block;background:#e6eef9;padding:2px 8px;border-radius:999px;margin-left:6px;font-size:.8rem;color:#0b448f}
-</style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Zex Martens | MSc Cyber Security – e-Portfolio</title>
+  <style>
+    :root {
+      --bg: #f8fbff;
+      --fg: #0f172a;
+      --brand: #0b448f;
+      --card: #ffffff;
+      --shadow: rgba(2, 6, 23, 0.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--fg);
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial;
+    }
+    header {
+      background: var(--brand);
+      color: white;
+      text-align: center;
+      padding: 40px 16px;
+    }
+    header h1 { margin-bottom: 8px; }
+    header p { opacity: 0.9; margin: 0; }
+    main {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 24px 16px;
+    }
+    h2 { color: var(--brand); margin-top: 36px; }
+    ul.modules {
+      list-style: none;
+      padding: 0;
+      margin: 20px 0;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 16px;
+    }
+    .card {
+      background: var(--card);
+      border-radius: 14px;
+      box-shadow: 0 4px 12px var(--shadow);
+      padding: 18px;
+      transition: transform 0.15s ease, box-shadow 0.2s ease;
+    }
+    .card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 6px 18px var(--shadow);
+    }
+    .card a {
+      color: var(--brand);
+      font-size: 1.15rem;
+      font-weight: 600;
+      text-decoration: none;
+    }
+    .card a:hover { text-decoration: underline; }
+    .card p { font-size: 0.9rem; margin-top: 6px; color: #475569; }
+    footer {
+      background: #e6eef9;
+      text-align: center;
+      padding: 20px 16px;
+      margin-top: 40px;
+      font-size: 0.9rem;
+    }
+  </style>
 </head>
 <body>
-<header>
-  <h1>Zex Martens — MSc Cyber Security</h1>
-  <p>Academic e-Portfolio (GitHub Pages)</p>
-</header>
+  <header>
+    <h1>Zex Martens</h1>
+    <p>MSc Cyber Security — University of Essex Online</p>
+    <p><em>Academic e-Portfolio</em></p>
+  </header>
 
-<main>
-  <h2>Modules</h2>
-  <ul class="grid">
-    <li class="card">
-      <h3><a href="modules/Security-and-Risk-Management/overview.md">Security & Risk Management</a><span class="badge">SRM</span></h3>
-      <p class="muted">Overview, artefacts (Unit 6 & 11), reflection, references.</p>
-    </li>
-    <li class="card">
-      <h3><a href="modules/Launching-into-Cyber-Security/overview.md">Launching into Cyber Security</a></h3>
-      <p class="muted">Key assignments, skills, reflection.</p>
-    </li>
-    <li class="card">
-      <h3><a href="modules/Network-Security/overview.md">Network Security</a></h3>
-      <p class="muted">Labs, configs, evaluations.</p>
-    </li>
-    <li class="card">
-      <h3><a href="modules/Secure-Software-Development/overview.md">Secure Software Development</a></h3>
-      <p class="muted">Code repos, threat models, tests.</p>
-    </li>
-    <li class="card">
-      <h3><a href="modules/The-Human-Factor/overview.md">The Human Factor</a></h3>
-      <p class="muted">Social engineering, awareness artefacts.</p>
-    </li>
-    <li class="card">
-      <h3><a href="modules/Secure-System-Architecture/overview.md">Secure System Architecture</a></h3>
-      <p class="muted">Designs, controls mapping.</p>
-    </li>
-    <li class="card">
-      <h3><a href="modules/Research-Methods-and-Professional-Practice/overview.md">Research Methods & Professional Practice</a></h3>
-      <p class="muted">Methods, ethics, proposal.</p>
-    </li>
-  </ul>
+  <main>
+    <section>
+      <h2>Welcome</h2>
+      <p>This e-portfolio showcases my learning journey across the MSc Cyber Security programme. 
+         Each module folder includes artefacts, reflections, and references that demonstrate knowledge growth, collaboration, and professional development.</p>
+    </section>
 
-  <h2>About</h2>
-  <p>This multi-module portfolio showcases my coursework across the MSc programme: artefacts, reflections, feedback, and progress over time. Each module folder contains an overview, key evidence, and a short reflective analysis.</p>
-</main>
+    <section>
+      <h2>Modules</h2>
+      <ul class="modules">
+        <li class="card">
+          <a href="modules/Security-and-Risk-Management/overview.md">Security & Risk Management</a>
+          <p>Risk identification, analysis, mitigation, and reflection (ISO 27005, NIST SP 800-30).</p>
+        </li>
+        <li class="card">
+          <a href="modules/Launching-into-Cyber-Security/overview.md">Launching into Cyber Security</a>
+          <p>Foundations of cybersecurity concepts, professional ethics, and digital literacy.</p>
+        </li>
+        <li class="card">
+          <a href="modules/Network-Security/overview.md">Network Security</a>
+          <p>Secure network design, protocols, and vulnerability analysis in enterprise systems.</p>
+        </li>
+        <li class="card">
+          <a href="modules/Secure-Software-Development/overview.md">Secure Software Development</a>
+          <p>Secure coding, STRIDE/PASTA threat modelling, and vulnerability management.</p>
+        </li>
+        <li class="card">
+          <a href="modules/Secure-System-Architecture/overview.md">Secure System Architecture</a>
+          <p>Formal modelling vs. automated testing and architectural design for resilience.</p>
+        </li>
+        <li class="card">
+          <a href="modules/The-Human-Factor/overview.md">The Human Factor</a>
+          <p>Human behaviour, insider threat mitigation, and social engineering defences.</p>
+        </li>
+        <li class="card">
+          <a href="modules/Research-Methods-and-Professional-Practice/overview.md">Research Methods & Professional Practice</a>
+          <p>Research design, ethics, and reflective professional practice in cybersecurity.</p>
+        </li>
+      </ul>
+    </section>
 
-<footer>
-  <small>© 2025 Zex Martens — University of Essex Online</small>
-</footer>
+    <section>
+      <h2>About</h2>
+      <p>This site is hosted via GitHub Pages and serves as my personal learning record. 
+         Each module folder documents both technical and reflective artefacts, peer/tutor feedback, and references in Harvard style.</p>
+    </section>
+  </main>
+
+  <footer>
+    <small>© 2025 Zex Martens — University of Essex Online | <a href="mailto:zexmartens@example.com">Contact</a></small>
+  </footer>
 </body>
 </html>
