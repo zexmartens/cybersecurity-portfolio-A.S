@@ -1,22 +1,20 @@
-
 ---
-layout: page
+layout: default
 title: Security & Risk Management — Overview
 ---
 
+<nav align="center">
+  <a href="/cybersecurity-portfolio-A.S/">🏠 Home</a> ·
+  <a href="/cybersecurity-portfolio-A.S/modules/Security-and-Risk-Management/">SRM</a> ·
+  <a href="/cybersecurity-portfolio-A.S/modules/Launching-into-Cyber-Security/">LCS</a> ·
+  <a href="/cybersecurity-portfolio-A.S/modules/Network-Security/">NSS</a> ·
+  <a href="/cybersecurity-portfolio-A.S/modules/Secure-Software-Development/">SSD</a> ·
+  <a href="/cybersecurity-portfolio-A.S/modules/Secure-System-Architecture/">SSA</a> ·
+  <a href="/cybersecurity-portfolio-A.S/modules/The-Human-Factor/">HF</a> ·
+  <a href="/cybersecurity-portfolio-A.S/modules/Research-Methods-and-Professional-Practice/">RMPP</a>
+</nav>
 
-
-<p align="center">
-  <a href="https://github.com/zexmartens/cybersecurity-portfolio-A.S/blob/main/modules/Security-and-Risk-Management/overview.md">🏠 Home</a> |
-  <a href="../Security-and-Risk-Management/overview.md">SRM</a> |
-  <a href="../Launching-into-Cyber-Security/overview.md">LCS</a> |
-  <a href="../Network-Security/overview.md">NSS</a> |
-  <a href="../Secure-Software-Development/overview.md">SSD</a> |
-  <a href="../Secure-System-Architecture/overview.md">SSA</a> |
-  <a href="../The-Human-Factor/overview.md">HF</a> |
-  <a href="../Research-Methods-and-Professional-Practice/overview.md">RMPP</a>
-</p>
-<hr>
+---
 
 # Module Overview – Security and Risk Management  
 **Module:** Security and Risk Management  
@@ -47,22 +45,30 @@ Throughout the module, I developed skills in risk modelling, mitigation planning
 ## Featured Artefacts  
 | Artefact | Description | Type |
 |:--|:--|:--|
-| **Artefact 1 – Industry 4.0 Risk Analysis** | Evaluation of digitalisation vulnerabilities and human error in cyber-physical systems. | Discussion Summary |
-| **Artefact 2 – WannaCry Case Study** | Analysis of global ransomware event linking human and technical failure. | Report |
-| **Artefact 3 – CVSS vs SSVC Evaluation** | Comparison of quantitative prioritisation models. | Analytical Paper |
-| **Artefact 4 – Pampered Pets Case Study** | Full risk assessment applying ISO 27005, STRIDE, and GDPR compliance. | Group Project |
+| [**Artefact 1 – Industry 4.0 Risk Analysis**](artefacts/industry4.0.md) | Evaluation of digitalisation vulnerabilities and human error in cyber-physical systems. | Discussion Summary |
+| [**Artefact 2 – WannaCry Case Study**](artefacts/wannacry.md) | Analysis of global ransomware event linking human and technical failure. | Report |
+| [**Artefact 3 – CVSS vs SSVC Evaluation**](artefacts/cvss-ssvc.md) | Comparison of quantitative prioritisation models. | Analytical Paper |
+| [**Artefact 4 – Pampered Pets Case Study**](artefacts/pampered-pets.md) | Full risk assessment applying ISO 27005, STRIDE, and GDPR compliance. | Group Project |
 
 ---
 
 ## Reflection and Supporting Materials  
-- 🧠 [Reflective Summary](reflection.md)  
-- 📚 [References](references.md)  
+- 🧠 [Reflective Summary](reflection)  
+- 📚 [References](references)  
+- 🗓️ [Meeting Notes](meeting-notes/)  
 - 📁 [Artefacts Folder](artefacts/)  
 
 ---
 
 ## Personal Statement  
 This module was a turning point in my professional development. It strengthened my ability to balance **analytical precision** with **human factors** and reinforced the importance of **ethical responsibility** in cybersecurity leadership. The combination of technical modelling, teamwork, and continuous reflection prepared me to handle risk assessment roles with greater confidence and accuracy.
+
+---
+
+<p align="center">
+  <a href="#module-overview--security-and-risk-management">⬆️ Back to Top</a> ·
+  <a href="/cybersecurity-portfolio-A.S/modules/Secure-Software-Development/">Next Module → Secure Software Development</a>
+</p>
 
 ---
 
