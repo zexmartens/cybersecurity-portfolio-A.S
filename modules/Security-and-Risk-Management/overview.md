@@ -47,11 +47,11 @@ Throughout the module, I developed skills in risk modelling, mitigation planning
 ## Featured Artefacts  
 | Artefact | Description | Type |
 |:--|:--|:--|
-| **Artefact 1 – Industry 4.0 Risk Analysis** | Evaluation of digitalisation vulnerabilities and human error in cyber-physical systems. | Discussion Summary |
-| **Artefact 2 – WannaCry Case Study** | Analysis of global ransomware event linking human and technical failure. | Report |
-| **Artefact 3 – CVSS vs SSVC Evaluation** | Comparison of quantitative prioritisation models. | Analytical Paper |
+| **Artefact 2.1 – Industry 4.0 Risk Analysis** | Evaluation of digitalisation vulnerabilities and human error in cyber-physical systems. | Discussion Summary |
+| **Artefact 2.2 – WannaCry Case Study** | Analysis of global ransomware event linking human and technical failure. | Discussion Summary |
+| **Artefact 3 – Group Meeting Notes**| Record of collaborative meetings (Kick-off, Progress Review, Final Submission) documenting task allocation, peer feedback, and submission timeline. | Collaboration Evidence |
 | **Artefact 4 – Pampered Pets Case Study** | Full risk assessment applying ISO 27005, STRIDE, and GDPR compliance. | Group Project |
-
+| **Artefact 6 – CVSS vs SSVC Evaluation** | Comparison of quantitative prioritisation models. | Initial post Unit 7 |
 ---
 
 ## Reflection and Supporting Materials  
