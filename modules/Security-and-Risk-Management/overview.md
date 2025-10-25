@@ -55,7 +55,8 @@ Throughout the module, I developed skills in risk modelling, mitigation planning
 ---
 
 ## Reflection and Supporting Materials  
-- 🧠 [Reflective Summary](reflection.md)  
+- 🧠 [Reflective Summary](reflection.md)          
+- 🗓️ [Group Meeting Notes](meeting_notes.md)
 - 📚 [References](references.md)  
 - 📁 [Artefacts Folder](artefacts/)  
 
