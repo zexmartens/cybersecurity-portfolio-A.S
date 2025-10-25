@@ -55,11 +55,10 @@ The module introduced:
 
 | Artefact | Description | Type |
 |:--|:--|:--|
-| **Artefact 1 – Industry 4.0 Risk Analysis** | Identified vulnerabilities in digital transformation systems. | Discussion Summary |
-| **Artefact 2 – WannaCry Case Study** | Analysed global ransomware propagation and mitigation strategies. | Report |
-| **Artefact 3 – CVSS vs SSVC** | Compared vulnerability scoring frameworks and their accuracy. | Analytical Paper |
+| **Artefact 2.1 – Industry 4.0 Risk Analysis** | Identified vulnerabilities in digital transformation systems. | Discussion Summary |
+| **Artefact 2.2 – WannaCry Case Study** | Analysed global ransomware propagation and mitigation strategies. | Report |
 | **Artefact 4 – Pampered Pets Project** | Conducted full enterprise risk assessment using ISO 27005. | Group Project |
-
+| **Artefact 6 – CVSS vs SSVC** | Compared vulnerability scoring frameworks and their accuracy. | Innitial post unit 7 |
 ---
 
 ## Reflection Snapshot  
